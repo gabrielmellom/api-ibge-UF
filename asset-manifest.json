@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api-ibge-UF/static/css/main.74bf717e.css",
+    "main.js": "/api-ibge-UF/static/js/main.792275d0.js",
+    "static/media/cover.jpg": "/api-ibge-UF/static/media/cover.e1e0e47c304561bd325c.jpg",
+    "static/media/clique.png": "/api-ibge-UF/static/media/clique.b73b1d843926940bf3c2.png",
+    "index.html": "/api-ibge-UF/index.html",
+    "main.74bf717e.css.map": "/api-ibge-UF/static/css/main.74bf717e.css.map",
+    "main.792275d0.js.map": "/api-ibge-UF/static/js/main.792275d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bf717e.css",
+    "static/js/main.792275d0.js"
+  ]
+}

@@ -1,0 +1,43 @@
+.container {
+  
+    background-color: rgb(107 177 122 / 86%);
+    width: 24vw;
+    height: 70vh;
+    margin: auto;
+    text-align: center;
+    /* display: flex; */
+    margin-top: 2em;
+    border-radius: 23px;
+}
+.container div h1 {
+    font-size: 24px;
+    font-family: system-ui;
+    width: 14em;
+    margin: auto;
+    margin-bottom: 1em;
+}
+.option {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    width: 46%;
+    margin: auto;
+    gap: 1em;
+}
+select {
+    font-size: 19px;
+    border-radius: 5px;
+    height: 2em;
+    font-family: ui-monospace;
+}
+P{
+    font-size: 19PX;
+}
+
+@media (max-width: 600px) {
+
+    .box {
+        margin: 0 auto;
+    }
+
+  }

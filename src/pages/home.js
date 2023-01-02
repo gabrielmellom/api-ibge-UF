@@ -14,7 +14,7 @@ export default function Home() {
 
       <section className='section_home'>
                 <div className='box'>
-                    <h1> Projeto tecnico Ipam</h1>
+                    <h1> Projeto técnico Ipam</h1>
                 </div>
                 <div className='box2'>
                     <h3>Essa seria a Home Page da nossa aplicação. Por aqui consigo demonstrar a parte prática da funcionalidade de uma SPA, alterando o conteúdo sem a necessidade de um novo carregamento, utilizando o sistema de rotas do React  </h3>

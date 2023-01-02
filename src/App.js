@@ -1,10 +1,7 @@
 
-
-
-
 // Primeiramente obrigado pela oportunidade de participar 
-// deste processo seletivo, trabalhar para o ipam ia ser uma grande 
-// honra, espero que gostem do leyalt, apresento um pouco do meu trabalho, tentei fazer de uma
+// deste processo seletivo, trabalhar para o ipam ia ser uma grande  honra,
+// espero que gostem do leyalt, apresento um pouco do meu trabalho, tentei fazer de uma
 // forma mais simples para manutencao e apresentacao do mesmo.
 
 //############# listagem de desafios solicitados#########
